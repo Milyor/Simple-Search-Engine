@@ -18,7 +18,9 @@ This is a simple command-line search engine program written in Kotlin. It allows
 The data file should contain lines of text, each representing a person's information. Names and emails should be separated by spaces or punctuation.
 Example data file (data.txt):
 
+```
 Katie Jacobs katie@example.com
 Erick Harrington erick@example.com
 Myrtle Medina myrtle@example.com
 Erick Burgess erick@example.com
+```
